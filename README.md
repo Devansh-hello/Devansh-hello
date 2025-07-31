@@ -1,10 +1,14 @@
+<h1 align="left">Hello! I am Devansh</h1>
+
+###
+
 <br clear="both">
 
 <img align="right" height="200" src="https://media.tenor.com/Mq8O8yowVukAAAAi/waving-hi.gif"  />
 
 ###
 
-<h1 align="left">Hello! I am Devansh</h1>
+<h3 align="left">Technologies I Know:</h3>
 
 ###
 
@@ -29,8 +33,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devansh-hello/Devansh-hello/output/pacman-contribution-graph-dark.svg">
