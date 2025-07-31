@@ -63,10 +63,12 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devansh-hello&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" height="200" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Devansh-hello&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" height="200" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Devansh-hello&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="Top Languages" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Devansh-hello&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
 </div>
+
+
 
 
 ---
